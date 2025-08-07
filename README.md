@@ -1,4 +1,6 @@
-## Hi there 👋
+<h2 align="center">Hi, I am Eden Pardo!<br/></h2>
+
+<img align='right' src='https://raw.githubusercontent.com/edenlpardo/edenlpardo/main/assets/coding-girl.gif' width='200'>
 
 <!--
 **edenlpardo/edenlpardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
