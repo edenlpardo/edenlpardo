@@ -1,18 +1,13 @@
-<h2 align="center">Hi, I am Eden Pardo!<br/></h2>
+<p align="center">
+  <h2>Hello, fellow coder!</h2>
+</p>
 
-<img align='right' src='https://raw.githubusercontent.com/edenlpardo/edenlpardo/main/assets/coding-girl.gif' width='200'>
+  <img align="right" src="https://raw.githubusercontent.com/edenlpardo/edenlpardo/main/assets/coding-girl.gif" width="200" alt="Girl coding" >
 
-<!--
-**edenlpardo/edenlpardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Eden Pardo :) I am from California and I recently graduated from Eckerd College with a BS in Computer Science! I love creating art and really enjoy mystery novels.  
 
-Here are some ideas to get you started:
+- I am currently working on obtaining my **CompTIA Security+** certifcation
+- I am currently learning how to automate tasks using **Bash** scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with me:**  
+<a href="https://linkedin.com/in/eden-pardo-484606293" target="blank"><img align="center" src="https://raw.githubusercontent.com/edenlpardo/edenlpardo/main/assets/linkedin-logo.png" alt="LinkedIn Logo" height="40" width="40" /></a>
